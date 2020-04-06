@@ -1,3 +1,2 @@
 plugins:
-  # Local plugin
   - type: ./plugins/aurora
