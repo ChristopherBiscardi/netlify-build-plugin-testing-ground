@@ -1,2 +1,2 @@
 plugins:
-  - type: ./plugins/aurora
+  - package: ./plugins/aurora
